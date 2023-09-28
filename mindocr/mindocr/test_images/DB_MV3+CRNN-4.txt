@@ -1,0 +1,6 @@
+apyrosis.png	[{"transcription": "apyrosis", "points": [[275, 142], [318, 138], [339, 334], [296, 338]]}, 
+                {"transcription": "oral", "points": [[255, 140], [271, 140], [271, 166], [255, 166]]}]
+
+fortalgic.png	[{"transcription": "fortalgic", "points": [[291, 279], [485, 266], [488, 307], [294, 320]]}]
+
+30s

@@ -1,0 +1,17 @@
+apyrosis.png	[{"transcription": "mi", "points": [[150, 176], [165, 176], [165, 202], [150, 202]]}, 
+                {"transcription": "pyrosis", "points": [[275, 162], [324, 157], [343, 351], [294, 356]]}, 
+                {"transcription": "suspension", "points": [[261, 169], [271, 168], [275, 221], [265, 222]]}, 
+                {"transcription": "s", "points": [[145, 151], [162, 149], [165, 174], [148, 176]]}, 
+                {"transcription": "sodiumbical", "points": [[326, 148], [337, 148], [338, 201], [327, 201]]}, 
+                {"transcription": "sodiumnaigina", "points": [[337, 148], [347, 147], [352, 205], [342, 206]]}]
+
+fortalgic.png	[{"transcription": "comprimies", "points": [[435, 350], [478, 348], [478, 358], [435, 360]]}, 
+                {"transcription": "pelicules", "points": [[477, 346], [514, 344], [514, 355], [477, 357]]}, 
+                {"transcription": "paracetamol", "points": [[326, 331], [370, 329], [370, 339], [326, 341]]}, 
+                {"transcription": "coddine", "points": [[393, 326], [427, 324], [428, 335], [394, 337]]}, 
+                {"transcription": "300mg", "points": [[329, 321], [365, 321], [365, 332], [329, 332]]}, 
+                {"transcription": "25mg", "points": [[395, 314], [427, 314], [427, 328], [395, 328]]}, 
+                {"transcription": "fort", "points": [[293, 281], [373, 274], [376, 310], [296, 317]]}, 
+                {"transcription": "algic", "points": [[367, 273], [477, 271], [478, 310], [368, 312]]}]
+
+1.40s

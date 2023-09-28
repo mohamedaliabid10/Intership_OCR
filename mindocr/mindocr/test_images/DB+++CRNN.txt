@@ -1,0 +1,14 @@
+apyrosis.png	[{"transcription": "pyrosis", "points": [[275, 170], [327, 166], [343, 353], [291, 357]]}, 
+                {"transcription": "suspen", "points": [[263, 167], [273, 167], [273, 205], [263, 205]]}, 
+                {"transcription": "10ml", "points": [[145, 150], [163, 149], [165, 202], [147, 203]]}]
+
+fortalgic.png	[{"transcription": "comprimes", "points": [[433, 349], [480, 347], [480, 358], [433, 360]]}, 
+                {"transcription": "pellicutes", "points": [[478, 347], [512, 344], [513, 355], [479, 358]]}, 
+                {"transcription": "paracdeomel", "points": [[324, 331], [369, 328], [370, 339], [325, 342]]}, 
+                {"transcription": "codtine", "points": [[394, 326], [427, 326], [427, 336], [394, 336]]}, 
+                {"transcription": "300mg", "points": [[327, 319], [367, 318], [367, 332], [327, 333]]}, 
+                {"transcription": "25mg", "points": [[395, 316], [426, 316], [426, 327], [395, 327]]}, 
+                {"transcription": "fortalaic", "points": [[298, 280], [483, 271], [485, 304], [300, 313]]}]
+
+3min
+

@@ -1,0 +1,10 @@
+apyrosis.png	[{"transcription": "a", "points": [[146, 151], [164, 151], [164, 176], [146, 176]]}, 
+                {"transcription": "sticks", "points": [[164, 163], [179, 163], [179, 203], [164, 203]]}, 
+                {"transcription": "3", "points": [[147, 176], [164, 176], [164, 201], [147, 201]]}, 
+                {"transcription": "alginated", "points": [[327, 181], [352, 177], [359, 215], [334, 219]]}, 
+                {"transcription": "arbonatess", "points": [[324, 194], [348, 190], [356, 234], [332, 239]]}, 
+                {"transcription": "yrosis", "points": [[270, 202], [336, 193], [356, 354], [291, 362]]}]
+
+fortalgic.png	[{"transcription": "fortalgic", "points": [[295, 277], [477, 261], [481, 311], [299, 327]]}]
+
+2.30s

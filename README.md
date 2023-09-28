@@ -1,0 +1,1 @@
+# MedicamentProject-OCR-Approach
